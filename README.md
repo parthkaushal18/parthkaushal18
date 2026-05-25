@@ -2,11 +2,13 @@
 
 # Hi there, I'm Parth Kaushal 👋
 
-### iOS Developer · IoT Enthusiast · Systems Builder
+### Computer Engineer @ UNSW Sydney | Software Engineer & AI/ML Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthkaushal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthkaushal18@users.noreply.github.com)
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-kaushal-39ab25286/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.kaushal31@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthkaushal18)
+
+📍 Sydney, Australia 🇦🇺 | 📧 [parth.kaushal31@gmail.com](mailto:parth.kaushal31@gmail.com)
 
 </div>
 
@@ -14,48 +16,70 @@
 
 ## 🧠 About Me
 
-- 🎓 **Undergraduate** @ Thapar Institute of Engineering and Technology
-- 📱 **iOS Developer**: Building modern, interactive mobile applications using **Swift** and **SwiftUI**.
-- 🔌 **Hardware & IoT**: Designing custom circuits, PCBs (schematics + board layouts using **EAGLE**), and programming **Arduino** microcontrollers for telemetry projects.
-- 💻 **Core Engineering**: Solid foundation in Object-Oriented Programming (**OOPs**), Data Structures & Algorithms (**DSA**), and Analysis of Algorithms (**DAA**).
-- 📬 Reach me: **[parthkaushal18@users.noreply.github.com](mailto:parthkaushal18@users.noreply.github.com)**
+- 🎓 **Honors of Engineering in Computer Engineering** @ **University of New South Wales (UNSW)**, Sydney (2025–2027) | *WAM: 75*
+- 🎓 **Bachelor of Engineering in Computer Engineering** @ **Thapar Institute of Engineering and Technology**, India (2023–2025) | *CGPA: 8.5*
+- 💼 **Former Software Engineering Intern** @ **Nokia** & **Macron Ventures**
+- 🚀 Passionate about building robust backend architectures, scalable ML pipelines, and interactive data visualization tools.
+- 🏛️ **Core Member** @ **Association for Computing Machinery (ACM)** — Led cross-functional teams and trained 1,000+ students.
 
 <hr>
 
 ## 🛠️ Tech Stack
 
-**Mobile & App Development**
+**Languages**
 <p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
-</p>
-
-**Hardware, Electronics & IoT**
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/EAGLE%20PCB-006E9C?style=flat-square&logo=autodesk&logoColor=white" alt="EAGLE" />
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/LTspice-000000?style=flat-square&logo=analogdevices&logoColor=white" alt="LTspice" />
-</p>
-
-**Languages & Core CSE**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Data%20Structures-008080?style=flat-square" alt="DSA" />
-  <img src="https://img.shields.io/badge/OOPs-FF6347?style=flat-square" alt="OOPs" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
+
+**AI, Machine Learning & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+**Frameworks, Libraries & Tools**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <hr>
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
+
+### 🌐 **Macron Ventures Pvt. Ltd.** | *Product Development Intern* (Dec 2024 – Aug 2025)
+- Developed community-driven events platforms, utilizing performance analytics and audience segmentation.
+- Boosted platform engagement by **90%** through data-backed digital outreach strategies.
+
+### 📱 **Nokia India Pvt. Ltd.** | *Software Engineering Intern* (May 2024 – Nov 2024)
+- Engineered telecom software solutions in Python, Java, and SQL inside Agile teams, optimizing system latency.
+- Identified performance bottlenecks and designed backend log analysis and database queries.
+
+### 🏛️ **ACM Student Chapter** | *Core Member* (Sept 2023 – June 2025)
+- Led a 50+ member cross-functional team deploying web platforms and managing digital infrastructure.
+- Delivered **20+ technical workshops** on programming and AI/ML to **1,000+ students**.
+
+<hr>
+
+## 🚀 Projects
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 📱 **Tic Tac Toe App** | Interactive, beautifully designed iOS board game with fluid animations. | SwiftUI · Swift · Xcode | [🔗 Repository](https://github.com/parthkaushal18/Tic-Tac-Toe) |
-| 📻 **RF Transmitter & Receiver** | Custom telemetry system with custom-routed PCB layouts. | EAGLE · RF Telemetry · Hardware | [🔗 Design Files](https://github.com/parthkaushal18/transmitter-receiver) |
-| 📅 **Thapar Time Table** | Class schedule parsing and organizer tailored for Thapar University students. | Swift · OOPs | [🔗 Repository](https://github.com/parthkaushal18/Thapar-Time-Table) |
+| 📈 **Financial Data Dashboard** | Real-time ASX financial data ingestion, cleaning, trend visualization, and anomaly detection. | Python · Pandas · Streamlit | [🔗 Code](https://github.com/parthkaushal18) |
+| 🛡️ **Fraud Detection ML Pipeline** | End-to-end pipeline implementing SMOTE for credit card fraud classification, yielding **95%+ accuracy**. | Python · Scikit-Learn · Streamlit | [🔗 Code](https://github.com/parthkaushal18) |
+| 🌿 **EU CBAM Compliance SaaS** | Automatically generates regulatory EU CBAM XML submission reports for exporters in minutes. | React.js · FastAPI · XML | [🔗 Code](https://github.com/parthkaushal18) |
 
 <hr>
 
@@ -72,19 +96,11 @@
 
 <hr>
 
-## 🏅 Key Milestones
-
-- 📡 Designed and simulated custom RF Transmitter/Receiver circuit boards using Autodesk EAGLE.
-- 📱 Crafted multiple SwiftUI apps from concept to layout.
-- 📈 Solved core algorithms (DAA, DSA) and OOP design paradigms.
-
-<hr>
-
 <div align="center">
 
 ### 💬 Let's connect and build something that matters!
 
-_“I don't just write code. I build systems.”_
+_“I don't just train models. I deploy them.”_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parthkaushal18&color=brightgreen&style=flat-square)
 

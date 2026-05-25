@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Parth Kaushal 👋
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parth%20Kaushal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Software%20Engineer%20%7C%20AI/ML%20Developer&descSize=16&descAlignY=52"/>
 
-### Computer Engineer @ UNSW Sydney | Software Engineer & AI/ML Developer
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+Honors+of+Engineering+%40+UNSW+Sydney;%F0%9F%92%BC+Ex-Intern+%40+Nokia+%26+Macron+Ventures;%F0%9F%9A%80+Building+Scalable+ML+Pipelines+%26+Backends;%F0%9F%A4%96+Passionate+about+AI%2C+Data+%26+Full-Stack+Dev" alt="Typing SVG" /></a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-kaushal-39ab25286/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.kaushal31@gmail.com)
@@ -12,7 +16,14 @@
 
 </div>
 
-<hr>
+<!-- GitHub Profile Trophy -->
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=parthkaushal18&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</a>
+</p>
+
+<hr/>
 
 ## 🧠 About Me
 
@@ -22,40 +33,94 @@
 - 🚀 Passionate about building robust backend architectures, scalable ML pipelines, and interactive data visualization tools.
 - 🏛️ **Core Member** @ **Association for Computing Machinery (ACM)** — Led cross-functional teams and trained 1,000+ students.
 
-<hr>
+<hr/>
 
-## 🛠️ Tech Stack
+## 🚀 Languages and Tools
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="48" height="48" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
+      <br>Sklearn
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+</div>
+</table>
 
-**AI, Machine Learning & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
-**Frameworks, Libraries & Tools**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<hr>
+<hr/>
 
 ## 💼 Professional Experience
 
@@ -71,7 +136,7 @@
 - Led a 50+ member cross-functional team deploying web platforms and managing digital infrastructure.
 - Delivered **20+ technical workshops** on programming and AI/ML to **1,000+ students**.
 
-<hr>
+<hr/>
 
 ## 🚀 Projects
 
@@ -81,27 +146,55 @@
 | 🛡️ **Fraud Detection ML Pipeline** | End-to-end pipeline implementing SMOTE for credit card fraud classification, yielding **95%+ accuracy**. | Python · Scikit-Learn · Streamlit | [🔗 Code](https://github.com/parthkaushal18) |
 | 🌿 **EU CBAM Compliance SaaS** | Automatically generates regulatory EU CBAM XML submission reports for exporters in minutes. | React.js · FastAPI · XML | [🔗 Code](https://github.com/parthkaushal18) |
 
-<hr>
+<hr/>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<br/>
 
-[![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthkaushal18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/parthkaushal18)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthkaushal18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/parthkaushal18)
+<p align="center">
+  <a href="https://github.com/parthkaushal18/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile" alt="Parth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkaushal18&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=parthkaushal18&theme=tokyonight&hide_border=true)](https://github.com/parthkaushal18)
+<p align="center">
+    <a href="https://github.com/parthkaushal18">
+      <img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parthkaushal18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/parthkaushal18">
+      <img alt="Parth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkaushal18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>
 
-</div>
+<br/>
 
-<hr>
+<!-- GitHub Activity Graph -->
+<p align="center">
+<a href="https://github.com/parthkaushal18">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkaushal18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Parth's Contribution Graph" />
+</a>
+</p>
+
+<br/>
+
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parthkaushal18/parthkaushal18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<hr/>
 
 <div align="center">
 
 ### 💬 Let's connect and build something that matters!
 
-_“I don't just train models. I deploy them.”_
+_"I don't just train models. I deploy them."_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parthkaushal18&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/parthkaushal18?label=Followers&style=social)](https://github.com/parthkaushal18?tab=followers)
 
 </div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>

@@ -158,16 +158,8 @@
   </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/parthkaushal18">
-      <img alt="Parth's Github Stats" src="https://github-stats.vercel.app/api?username=parthkaushal18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/parthkaushal18">
-      <img alt="Parth's Top Languages" src="https://github-stats.vercel.app/api/top-langs/?username=parthkaushal18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>
 
-<br/>
+
 
 <!-- GitHub Activity Graph -->
 <p align="center">

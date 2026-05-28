@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parth%20Kaushal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Software%20Engineer%20%7C%20AI/ML%20Developer&descSize=16&descAlignY=52"/>
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+Honors+of+Engineering+%40+UNSW+Sydney;%F0%9F%92%BC+Ex-Intern+%40+Nokia+%26+Macron+Ventures;%F0%9F%9A%80+Building+Scalable+ML+Pipelines+%26+Backends;%F0%9F%A4%96+Passionate+about+AI%2C+Data+%26+Full-Stack+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=135&lines=%F0%9F%8E%93+Honors+of+Engineering+%40+UNSW+Sydney;%F0%9F%92%BC+Ex-Intern+%40+Nokia+%26+Macron+Ventures;%F0%9F%9A%80+Building+Scalable+ML+Pipelines+%26+Backends;%F0%9F%A4%96+Passionate+about+AI%2C+Data+%26+Full-Stack+Dev" alt="Typing SVG" /></a>
 
 <br/>
 

@@ -153,17 +153,17 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/parthkaushal18/github-readme-streak-stats">
+  <a href="https://github.com/parthkaushal18">
     <img title="🔥 Get streak stats for your profile" alt="Parth's streak" src="https://streak-stats.demolab.com/?user=parthkaushal18&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/parthkaushal18">
-      <img alt="Parth's Github Stats" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=parthkaushal18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+      <img alt="Parth's Github Stats" src="https://github-stats.vercel.app/api?username=parthkaushal18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     <a href="https://github.com/parthkaushal18">
-      <img alt="Parth's Top Languages" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=parthkaushal18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+      <img alt="Parth's Top Languages" src="https://github-stats.vercel.app/api/top-langs/?username=parthkaushal18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
